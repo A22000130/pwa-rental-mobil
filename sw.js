@@ -1,6 +1,6 @@
 var GHPATH = '/pwa-rental-mobil';
 var APP_PREFIX = 'rmspwa_';
-var VERSION = 'version_1.1';
+var VERSION = 'version_007';
 var URLS = [
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
