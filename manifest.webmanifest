@@ -1,0 +1,17 @@
+{
+  "name": "Rental PWA",
+  "short_name": "Rental",
+  "description": "Rental Mobil Sederhana PWA",
+  "scope": "/pwa-rental/",
+  "start_url": "/pwa-rental/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/pwa-rental/img/rental_icon.png",
+      "type": "image/png",
+      "sizes": "700x700"
+    }
+  ]
+}
